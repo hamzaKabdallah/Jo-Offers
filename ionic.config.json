@@ -1,0 +1,7 @@
+{
+  "name": "joOffers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "joOffers",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
