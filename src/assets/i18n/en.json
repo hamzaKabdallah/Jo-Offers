@@ -1,9 +1,7 @@
 {
-    "HOME": "Home",
-    "CONTENT": "Content",
-    "ABOUT": "About",
-    "HELLO": "Hello",
-    "WELCOME": "Welcome to the multilanguage Ionic app",
-    "SIMPLE_APP": "This is just a simple app",
-    "MY_NAME": "My name is Bill Musk"
+    "MAIN": {
+        "SEARCH": "search"
+    },
+  "JO_OFFERS": "Jo-Offers",
+  "MAIN_LIST": "Main List"
 }

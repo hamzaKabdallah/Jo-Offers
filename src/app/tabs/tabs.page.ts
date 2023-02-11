@@ -9,7 +9,6 @@ import { TranslateConfigService } from '../services/translate-config.service';
 })
 export class TabsPage {
   language: string;
-
   constructor(
     private translateConfigService: TranslateConfigService
   ) {

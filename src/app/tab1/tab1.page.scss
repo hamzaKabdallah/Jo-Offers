@@ -1,0 +1,31 @@
+.button-container {
+    display: flex;
+    align-items: center;
+}
+
+cdk-virtual-scroll-viewport {
+    height: 100%;
+    width: 100%;
+
+    ion-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        ion-card {
+            width: 44%;
+        }
+    }
+}
+
+@media screen and (max-width: 430px) {
+    cdk-virtual-scroll-viewport {
+        ion-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            ion-card {
+                width: 40%;
+            }
+        }
+    }
+}
